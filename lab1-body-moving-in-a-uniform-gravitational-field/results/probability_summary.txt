@@ -1,0 +1,7 @@
+Liczba prób: 100000
+Liczba zaakceptowanych: 2616
+Ziarno generatora: 42
+Prawdopodobieństwo: 0.026160 = 2.6160%
+Błąd standardowy: 0.0505 punktu procentowego
+Przybliżony przedział ufności 95%: [2.5171%, 2.7149%]
+Margines 95%: ±0.0989 punktu procentowego
